@@ -1,0 +1,144 @@
+{
+	"info": {
+		"_postman_id": "aa883b73-a30f-4d25-8009-2e7f96dc4d76",
+		"name": "Microservicio_CL_EPS",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23176952",
+		"_collection_link": "https://cloudy-space-116545.postman.co/workspace/NODE~8bb5af6f-a170-4219-9884-26a2cce66d83/collection/23176952-aa883b73-a30f-4d25-8009-2e7f96dc4d76?action=share&source=collection_link&creator=23176952"
+	},
+	"item": [
+		{
+			"name": "endpoint1",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:6996/api/endpoint1",
+					"host": [
+						"localhost"
+					],
+					"port": "6996",
+					"path": [
+						"api",
+						"endpoint1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "endpoint3",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:6996/api/endpoint3",
+					"host": [
+						"localhost"
+					],
+					"port": "6996",
+					"path": [
+						"api",
+						"endpoint3"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "endpoint4",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:6996/api/endpoint4",
+					"host": [
+						"localhost"
+					],
+					"port": "6996",
+					"path": [
+						"api",
+						"endpoint4"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "endpoint6",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:6996/api/endpoint6",
+					"host": [
+						"localhost"
+					],
+					"port": "6996",
+					"path": [
+						"api",
+						"endpoint6"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "endpoint7",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:6996/api/endpoint7",
+					"host": [
+						"localhost"
+					],
+					"port": "6996",
+					"path": [
+						"api",
+						"endpoint7"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "endpoint8",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:6996/api/endpoint8",
+					"host": [
+						"localhost"
+					],
+					"port": "6996",
+					"path": [
+						"api",
+						"endpoint8"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "endpoint12",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:6996/api/endpoint12",
+					"host": [
+						"localhost"
+					],
+					"port": "6996",
+					"path": [
+						"api",
+						"endpoint12"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
